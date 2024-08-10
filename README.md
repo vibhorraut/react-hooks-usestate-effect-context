@@ -1,3 +1,8 @@
+# Final output
+
+![react-hooks-usestate-useEffect-useContext](https://github.com/user-attachments/assets/f20aa7dc-325e-4ecc-bbbd-13b1e82530aa)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
